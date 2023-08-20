@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "989225916274",
+    "project_id": "meal-monkey-6a0a1",
+    "storage_bucket": "meal-monkey-6a0a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989225916274:android:a569cc7714529a4fcdafeb",
+        "android_client_info": {
+          "package_name": "dabour.com.meal_monkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989225916274-0816tn1lv8fevsa2qc22t0fgujeso92o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dabour.com.meal_monkey",
+            "certificate_hash": "703ffb9b8765fc8dc79b3d67c5df5c7fd1850859"
+          }
+        },
+        {
+          "client_id": "989225916274-8h6r431617fsbgi0hnfegoviafiuudb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2FppcZ3l_1RJJ6DTbrLTsB8kqSBOohM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989225916274-8h6r431617fsbgi0hnfegoviafiuudb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
